@@ -13,6 +13,10 @@ This github directory contains the most recent declarations.
 * The files ending with a 'B' contain the full declaration; including the escrow data and checksums
 * The files without a 'B' are the 'verklaring'
 
+# Process
+
+Process details can be found in the directory 'process'.
+
 [1]: https://en.wikipedia.org/wiki/Kerckhoffs%27s_principle "Kerckhoffs's principle" 
 [2]: https://en.wikipedia.org/wiki/Source_code_escrow "Source code Escrow"
 [3]: https://nl.wikipedia.org/wiki/Landsadvocaat "Landsadvocaat"
