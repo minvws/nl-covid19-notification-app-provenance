@@ -6,7 +6,8 @@ One of the primary reason for making all this open source is to build trust. To 
 
 However that only goes so far. How does one know that the code shown here is the code that was uploaded into the Apple and Google playstore ?
 
-To answer part of this question - this project has arranged for a variant of source code escrow[2]. Where an *independent* expert party verifies the source code repository, the build process and the final build; and compares this with the actual version as submitted to the Apple and Google playstore. A notary ("Lands Advocaat"[3]) then verifies that this independent party has done this work, provided complete documentation, takes a statement of the engineers involved in the build and then issues a formal declaration that the are no differences found.
+To answer part of this question - this project has arranged for a variant of source code escrow[2]. 
+In this process an *independent* expert party verifies the source code repository, the build process and the final build; and compares this with the actual deployments to the backend servers and to the app stores. A notary ("Landsadvocaat"[3]) then verifies that this independent party has done this work, provided complete documentation, takes a statement of the engineers involved in the build and then issues a formal declaration that the are no differences found.
 
 This github directory contains the most recent declarations.
 
@@ -15,7 +16,7 @@ This github directory contains the most recent declarations.
 
 # Process
 
-Process details can be found in the directory 'process'.
+Process details are described in Dutch [here](process/Beschrijving%20Build%20Verificatie%20CoronaMelder%20App.pdf).
 
 [1]: https://en.wikipedia.org/wiki/Kerckhoffs%27s_principle "Kerckhoffs's principle" 
 [2]: https://en.wikipedia.org/wiki/Source_code_escrow "Source code Escrow"
