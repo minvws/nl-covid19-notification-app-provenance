@@ -16,7 +16,7 @@ This github directory contains the most recent declarations.
 
 # Process
 
-Process details are described [here](process/Beschrijving%20Build%20Verificatie%20CoronaMelder%20App.pdf).
+Process details are described in Dutch [here](process/Beschrijving%20Build%20Verificatie%20CoronaMelder%20App.pdf).
 
 [1]: https://en.wikipedia.org/wiki/Kerckhoffs%27s_principle "Kerckhoffs's principle" 
 [2]: https://en.wikipedia.org/wiki/Source_code_escrow "Source code Escrow"
